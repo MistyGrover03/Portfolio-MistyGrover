@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio-MistyGrover/static/css/main.1c65f4ff.css",
+    "main.js": "/Portfolio-MistyGrover/static/js/main.8532a82f.js",
+    "static/js/453.ad7768ec.chunk.js": "/Portfolio-MistyGrover/static/js/453.ad7768ec.chunk.js",
+    "static/media/MistyGrover_photograph.jpg": "/Portfolio-MistyGrover/static/media/MistyGrover_photograph.48485254f50c3b8fc683.jpg",
+    "static/media/logo.svg": "/Portfolio-MistyGrover/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio-MistyGrover/index.html",
+    "main.1c65f4ff.css.map": "/Portfolio-MistyGrover/static/css/main.1c65f4ff.css.map",
+    "main.8532a82f.js.map": "/Portfolio-MistyGrover/static/js/main.8532a82f.js.map",
+    "453.ad7768ec.chunk.js.map": "/Portfolio-MistyGrover/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c65f4ff.css",
+    "static/js/main.8532a82f.js"
+  ]
+}
